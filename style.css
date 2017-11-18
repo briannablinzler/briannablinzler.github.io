@@ -16,7 +16,7 @@ header .row {
 header h1 {
   width: 100px;
   height: 100px;
-  margin: auto;
+  margin: 0;
 }
 
 header nav {
