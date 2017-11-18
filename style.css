@@ -11,7 +11,7 @@ html, body {
   padding: 30 px;
 }
 
-header .row {
+.row {
   flex-direction: row;
   justify-content: space-evenly;
   padding: 30 px;
