@@ -8,11 +8,13 @@ header {
 }
 
 header h1 {
+  display: flex;
+  flex-wrap: no-wrap;
   width: 100px;
   height: 100px;
   margin: auto;
   color: purple;
-  align-items: center;
+  justify-content: center;
 }
 
 nav {
