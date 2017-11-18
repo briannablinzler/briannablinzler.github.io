@@ -4,15 +4,18 @@ html, body {
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
+  font-type: Trebuchet MS;
 }
 
 .page-title {
   text-align: center;
   padding: 30 px;
+  font-size: 36 px;
 }
 
 .row {
   flex-direction: row;
   justify-content: space-evenly;
   padding: 30 px;
+  font-size: 15 px
 }
