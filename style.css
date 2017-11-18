@@ -5,11 +5,13 @@ html, body {
   font-weight: 300;
   line-height: 1.5;
   font-type: Trebuchet MS;
+  background-color: #e5e5e5;
 }
 
 .page-title {
   text-align: center;
   font-size: 36 px;
+  font-color: #591a89;
 }
 
 .row {
