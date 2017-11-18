@@ -9,14 +9,15 @@ header {
 
 header .row {
   display: flex;
-  height: 300;
-  align-items: center;
+  height: 300px;
 }
 
 header h1 {
   width: 100px;
   height: 100px;
   margin: auto;
+  color: purple;
+  align-items: center;
 }
 
 header nav {
