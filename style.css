@@ -8,7 +8,6 @@ header {
 }
 
 header .row {
-  display: flex;
   height: 300px;
 }
 
