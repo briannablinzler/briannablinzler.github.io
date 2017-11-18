@@ -1,5 +1,5 @@
 body {
-  font-family: Georgia;
+  font-family: Georgia, serif;
   font-weight: 300;
 }
 
@@ -7,12 +7,7 @@ header {
   padding: 20px 0;
 }
 
-header .row {
-  height: 300px;
-}
-
 header h1 {
-  display: flex;
   width: 100px;
   height: 100px;
   margin: auto;
@@ -20,13 +15,15 @@ header h1 {
   align-items: center;
 }
 
-header nav {
+nav {
   display: flex;
   justify-content: space-evenly;
+  font-size: 12px;
 }
 
-header p {
+p summary {
   display: flex;
   flex-flow: wrap;
   justify-content: space-around;
+  font-size: 8px;
 }
