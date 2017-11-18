@@ -10,6 +10,7 @@ header {
 header .row {
   display: flex;
   height: 300;
+  align-content: center;
 }
 
 header h1 {
