@@ -13,12 +13,13 @@ html, body {
 }
 
 .row {
-  margin-top: 10 px;
+  text-align: center;
   justify-content: space-evenly;
   font-size: 15 px
 }
 
 .page-description {
+  margin: 5 px;
   padding: 10 px;
   border: 10 px, solid black;
   text-align: center;
